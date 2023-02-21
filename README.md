@@ -11,4 +11,4 @@
  *  document.dispatchEvent(cEvent);
  */
 
- ![Webstudio Module Toast](https://github.com/github/docs/actions/workflows/production.yml/badge.svg)
+ ![Webstudio Module Toast](https://github.com/webstudioso/wsm-toast/actions/workflows/production.yml/badge.svg)
