@@ -1,4 +1,4 @@
-import properties from "../components/properties"
+import properties from "../properties"
 
 describe("Toast properties", () => {
 

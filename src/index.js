@@ -1,5 +1,5 @@
-import block from "./components/block";
-import properties from "./components/properties";
+import block from "./block";
+import properties from "./properties";
 
 const Plugin = (editor) => {
   const id = process.env.MODULE_ID;

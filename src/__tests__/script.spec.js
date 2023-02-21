@@ -1,4 +1,4 @@
-import script from "../components/script";
+import script from "../script";
 
 describe("Toast script", () => {
 

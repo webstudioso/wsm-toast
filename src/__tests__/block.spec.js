@@ -1,4 +1,4 @@
-import block from "../components/block"
+import block from "../block"
 
 describe("Toast block", () => {
 
