@@ -7,7 +7,7 @@ This module adds alerts and notification capabilities to web apps built with `We
 ### Testing and Building Module
 ```
 npm i
-npm run tests
+npm run test
 npm run build
 ```
 
@@ -38,9 +38,9 @@ const editor = grapesjs.init({
 const event = new CustomEvent('onToast', { 
     detail: { 
         alertSeverity: "info", // info, success or error
-        message: 'Who let the dogs out', 
-        link: 'https://google.com', // Optional
-        timeout: 5000 // Milliseconds
+        message: 'Message to display in toast', 
+        link: 'https://google.com', // Optional link
+        timeout: 5000 // Milliseconds of visibility
     }
 })
  document.dispatchEvent(event)
