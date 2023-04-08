@@ -1,6 +1,6 @@
  # Webstudio Toast Module
 
-This module adds alerts and notification capabilities to web apps built with `Webstudio`
+This module adds alerts and notification capabilities to web apps built with [Webstudio](https://webstudio.so)
 
  ![Webstudio Module Toast](https://github.com/webstudioso/wsm-toast/actions/workflows/production.yml/badge.svg)
 
